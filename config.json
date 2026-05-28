@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingsetch",
+        "uuid": 34569248,
+        "checksum": "va30s9"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
